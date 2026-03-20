@@ -1,0 +1,1 @@
+This project is a dynamic Resume Builder designed to help users create professional, ATS-friendly resumes with ease. It features real-time preview updates, form validation, and a fully responsive layout that works seamlessly across desktop and mobile devices. Built using HTML5, CSS3, and JavaScript, the application focuses on usability, performance, and clean design.
